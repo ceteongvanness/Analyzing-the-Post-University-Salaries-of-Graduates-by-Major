@@ -21,3 +21,5 @@ You'll learn:
 * Google Colab
 
 ### Getting Started
+
+Refer to Tutorial folder
