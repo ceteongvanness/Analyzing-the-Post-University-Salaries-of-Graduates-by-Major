@@ -18,8 +18,8 @@ You'll learn:
 ### Technologies
 * Python
 * Pandas
-* Google Colab
+* Google Colab Notebook
 
 ### Getting Started
 
-Refer to Tutorial folder
+Refer to [Tutorial](https://github.com/ceteongvanness/Analyzing-the-Post-University-Salaries-of-Graduates-by-Major/tree/main/Tutorial) folder
